@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
- <div> proje baslar</div>
+ <div> proje baslar proje devam ediyor deneme değişir</div>
   )
 }
 
